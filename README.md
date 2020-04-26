@@ -40,7 +40,7 @@ The second version is useful for algorithms like [PPO](https://arxiv.org/pdf/170
 ## Instructions
 1. Activate the conda environment `drlnd` as established in [Udacity deep reinforcement learning repository](https://github.com/udacity/deep-reinforcement-learning)
 2. Open `Continuous_Control.ipynb` and follow the instructions in it.
-3. Change kernel to `drlnd` in `Navigation.ipynb`
+3. Change kernel to `drlnd` in `Continuous_Control.ipynb`
 4. Unzip the downloaded Reacher environment and give its path to `file_name="..."` in `Continuous_Control.ipynb`.
 5. Execute the code cell in `Continuous_Control.ipynb` from beginning to the end. The trained agent will be saved in `checkpoint_actor.pth` and `checkpoint_critic.pt` if the average score > +30.0.
 
